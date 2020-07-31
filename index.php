@@ -95,7 +95,7 @@
   </div> <!-- End Services -->
 
   <!-- Start Registration  -->
-  <?php include('userRegistration.php') ?>
+//   <?php include('userRegistration.php') ?>
   <!-- End Registration  -->
 
   <!-- Start Happy Customer  -->
