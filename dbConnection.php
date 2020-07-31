@@ -1,8 +1,8 @@
 <?php
-$db_host = "localhost";
-$db_user = "root";
-$db_password = "";
-$db_name = "osms_db";
+$db_host = "sql12.freemysqlhosting.net";
+$db_user = "sql12357946";
+$db_password = "WKmSdhPEWr";
+$db_name = "sql12357946";
 
 // Create Connection
 $conn = new mysqli($db_host, $db_user, $db_password, $db_name);
