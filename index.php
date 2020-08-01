@@ -172,19 +172,19 @@
 
       <div class="col-md-4 text-center">
         <!-- Start Contact Us 2nd Column-->
-        <strong>Headquarter:</strong> <br>
+       <strong>Headquarter California:</strong> <br>
         OSMS Pvt Ltd, <br>
-        Sec IV, Bokaro <br>
-        Jharkhand - 834005 <br>
-        Phone: +00000000 <br>
+        1797  Evergreen Lane <br>
+        losangeles -90017 <br>
+        Phone: 323-513-6406 <br>
         <a href="#" target="_blank">www.osms.com</a> <br>
 
         <br><br>
-        <strong>Delhi Branch:</strong> <br>
+        <strong>Chicago Branch:</strong> <br>
         OSMS Pvt Ltd, <br>
-        Ashok Nagar, Delhi <br>
-        Delhi - 804002 <br>
-        Phone: +00000000 <br>
+        1786  Tator Patch Road <br>
+        Illinois- 60606 <br>
+        Phone: 312-846-1425<br>
         <a href="#" target="_blank">www.osms.com</a> <br>
       </div> <!-- End Contact Us 2nd Column-->
     </div> <!-- End Contact Us Row-->
