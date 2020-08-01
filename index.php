@@ -209,7 +209,7 @@
 
         <div class="col-md-6 text-right">
           <!-- Start Footer 2nd Column -->
-          <small> Designed by Someone &copy; 2018.
+          <small> Designed by mohit &copy; 2020.
           </small>
           <small class="ml-2"><a href="Admin/login.php">Admin Login</a></small>
         </div> <!-- End Footer 2nd Column -->
