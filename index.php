@@ -95,7 +95,7 @@
   </div> <!-- End Services -->
 
   <!-- Start Registration  -->
- <?php include('UserRegistration.php'); ?>
+  <?php include('UserRegistration.php') ?>
   <!-- End Registration  -->
 
   <!-- Start Happy Customer  -->
@@ -109,8 +109,9 @@
           <!-- Start Customer 1st Column-->
           <div class="card shadow-lg mb-2">
             <div class="card-body text-center">
-              <img src="images/avtar1.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Rahul Kumar</h4>
+            <img src="images/1.png" class="img-fluid " style="border-radius: 100px; width:102px;  ">
+              
+              <h4 class="card-title">Anastasia</h4>
               <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                 ducimus voluptas
                 nesciunt debitis numquam.</p>
@@ -122,8 +123,9 @@
           <!-- Start Customer 2nd Column-->
           <div class="card shadow-lg mb-2">
             <div class="card-body text-center">
-              <img src="images/avtar2.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Sonam Sharma</h4>
+            <img src="images/2.png" class="img-fluid " style="border-radius: 100px; width:107px;  ">
+              
+              <h4 class="card-title">Vasily</h4>
               <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                 ducimus voluptas
                 nesciunt debitis numquam.</p>
@@ -135,8 +137,9 @@
           <!-- Start Customer 3rd Column-->
           <div class="card shadow-lg mb-2">
             <div class="card-body text-center">
-              <img src="images/avtar3.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Sumit Vyas</h4>
+            <img src="images/3.png" class="img-fluid" style="border-radius: 100px; width: 107px;">
+             
+              <h4 class="card-title">Lelyah</h4>
               <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                 ducimus voluptas
                 nesciunt debitis numquam.</p>
@@ -148,8 +151,8 @@
           <!-- Start Customer 4th Column-->
           <div class="card shadow-lg mb-2">
             <div class="card-body text-center">
-              <img src="images/avtar4.jpeg" class="img-fluid" style="border-radius: 100px;">
-              <h4 class="card-title">Jyoti Sinha</h4>
+            <img src="images/4.png" class="img-fluid" style="border-radius: 100px;width:113px;">
+              <h4 class="card-title">	Afanasy</h4>
               <p class="card-text">Itaque illo explicabo voluptatum, saepe libero rerum, ad
                 ducimus voluptas
                 nesciunt debitis numquam.</p>
@@ -172,7 +175,7 @@
 
       <div class="col-md-4 text-center">
         <!-- Start Contact Us 2nd Column-->
-       <strong>Headquarter California:</strong> <br>
+        <strong>Headquarter California:</strong> <br>
         OSMS Pvt Ltd, <br>
         1797  Evergreen Lane <br>
         losangeles -90017 <br>
@@ -200,16 +203,17 @@
         <div class="col-md-6">
           <!-- Start Footer 1st Column -->
           <span class="pr-2">Follow Us: </span>
-          <a href="#" target="_blank" class="pr-2 fi-color"><i class="fab fa-facebook-f"></i></a>
-          <a href="#" target="_blank" class="pr-2 fi-color"><i class="fab fa-twitter"></i></a>
-          <a href="#" target="_blank" class="pr-2 fi-color"><i class="fab fa-youtube"></i></a>
-          <a href="#" target="_blank" class="pr-2 fi-color"><i class="fab fa-google-plus-g"></i></a>
-          <a href="#" target="_blank" class="pr-2 fi-color"><i class="fas fa-rss"></i></a>
+          <a href="https://www.facebook.com/" target="blank" class="pr-2 fi-color"><i class="fab fa-facebook-f"></i></a>
+          <a href="https://www.twitter.com" target="_blank" class="pr-2 fi-color"><i class="fab fa-twitter"></i></a>
+          <a href="https://www.youtube.com" target="_blank" class="pr-2 fi-color"><i class="fab fa-youtube"></i></a>
+          <a href="https://www.instagram.com/" target="_blank" class="pr-2 fi-color"><i class="fab fa-instagram"></i></a>
+          <a href="https://www.googleplus.com" target="_blank" class="pr-2 fi-color"><i class="fab fa-google-plus-g"></i></a>
+          
         </div> <!-- End Footer 1st Column -->
 
         <div class="col-md-6 text-right">
           <!-- Start Footer 2nd Column -->
-          <small> Designed by mohit &copy; 2020.
+          <small> All 2020 &copy;  resurved by owner(mohit)
           </small>
           <small class="ml-2"><a href="Admin/login.php">Admin Login</a></small>
         </div> <!-- End Footer 2nd Column -->
@@ -225,5 +229,3 @@
 </body>
 
 </html>
-
-
